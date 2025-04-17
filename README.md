@@ -1,1 +1,2 @@
-# ☕ Mobile Coffee App UI
+# mobile-coffee-app-ui
+A mobile-friendly coffee ordering app UI
